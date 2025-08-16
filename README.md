@@ -1,15 +1,29 @@
-# 👋 Hi, I’m Dipak  
+# 👋 About Me  
 
-- 👀 I’m passionate about **Technology, Software Development, and Problem-Solving**  
-- 🌱 Currently learning **Computer Engineering** and exploring **Full Stack Development & Data Science**  
-- 💞️ Open to collaborate on **Open Source Projects, Hackathons, and Innovative Tech Solutions**  
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/dipak-pote-9b8930307/)** | **[Email](mailto:dppote37@gmail.com)**  
-- ⚡ Fun fact: I love building projects that combine creativity with real-world impact 🚀  
+💻 Passionate about **Technology, Software Development, and Problem-Solving**  
+🎓 Currently pursuing B Tech at VIT Pune  
+🚀 Exploring **Full Stack Development** & **Data Science**  
+🤝 Open to collaborating on **Open Source Projects, Hackathons, and Innovative Tech Solutions**  
+📫 Reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-pote-9b8930307/)(mailto:dppote37@gmail.com)  
+⚡ Fun fact: I love building projects that combine **creativity with real-world impact** 🚀  
 
 ---
-✨ _"Always learning, always building."_ ✨
 
-<!---
-itzcovert123/itzcovert123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack  
+
+- **Languages:** C++, Python, Java, JavaScript  
+- **Web Development:** React, Node.js, Express.js, MongoDB  
+- **Tools & Platforms:** Git, GitHub, Docker, VS Code  
+- **Other Interests:** Data Visualization, Problem Solving (DSA)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Dipak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzcovert123&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzcovert123&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=itzcovert123&theme=radical)  
+
+---
+
+✨ _"Always learning, always building."_ ✨
