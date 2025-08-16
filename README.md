@@ -1,3 +1,6 @@
+<!-- Typing SVG Banner -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Dipak+👋;Passionate+about+Technology+%26+Innovation+🚀;Full+Stack+Developer+%7C+Data+Science+Enthusiast;Always+Learning+%7C+Always+Building+✨)](https://git.io/typing-svg)
+
 # 👋 About Me  
 
 💻 Passionate about **Technology, Software Development, and Problem-Solving**  
