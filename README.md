@@ -1,5 +1,8 @@
-<!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Dipak+👋;Passionate+about+Technology+%26+Innovation+🚀;Full+Stack+Developer+%7C+Data+Science+Enthusiast;Always+Learning+%7C+Always+Building+✨)](https://git.io/typing-svg)
+<!-- Wave Animated Banner -->
+![Dipak's GitHub Banner](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey+I'm+Dipak+👋&fontAlign=50&fontAlignY=40&color=gradient&fontSize=45&desc=Full+Stack+Developer+%7C+Data+Science+Enthusiast+%7C+Always+Building✨&descAlign=50&descAlignY=65)
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Dipak+👋;💻+Full+Stack+Developer;📊+Data+Science+Enthusiast;🚀+Passionate+about+Innovation;✨+Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
 
 # 👋 About Me  
 
