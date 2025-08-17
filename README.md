@@ -1,4 +1,4 @@
-![Coding Banner](https://i.ibb.co/m6K7yKm/coding-desk.gif)
+![Car Banner](https://i.ibb.co/1QtM7wc/car-running.gif)
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Dipak+👋;💻+Full+Stack+Developer;📊+Data+Science+Enthusiast;🚀+Passionate+about+Innovation;✨+Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
