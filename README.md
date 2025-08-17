@@ -1,5 +1,4 @@
-<!-- Wave Animated Banner -->
-![Dipak's GitHub Banner](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey+I'm+Dipak+👋&fontAlign=50&fontAlignY=40&color=gradient&fontSize=45&desc=Full+Stack+Developer+%7C+Data+Science+Enthusiast+%7C+Always+Building✨&descAlign=50&descAlignY=65)
+![Matrix Banner](https://i.ibb.co/2kM5Z1M/matrix-rain.gif)
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Dipak+👋;💻+Full+Stack+Developer;📊+Data+Science+Enthusiast;🚀+Passionate+about+Innovation;✨+Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
