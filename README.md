@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dipak Rajendra Pote</h1>
-<h3 align="center">💻 Passionate about Technology, Software Development, and Problem-Solving</h3>
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&width=500&lines=Hi+👋,+I'm+Dipak+Rajendra+Pote)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&width=600&lines=💻+Passionate+about+Technology;💻+Software+Development;💻+Problem+Solving)](https://git.io/typing-svg)
 
 - I created [Diplomate](https://github.com/itzcovert123/Diplomate)
 
